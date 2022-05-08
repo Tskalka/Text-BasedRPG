@@ -7,7 +7,7 @@ This software is the beginnings of an old school Text Based RPG in the command l
 
 The purpose of writing a Text Based RPG is to practice my abilites in a language I knew nothing about 2 weeks ago. This had me practice using classes, functions, conditionals, and loops in Kotlin.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/HbwWhaMynjw)
 
 # Development Environment
 
