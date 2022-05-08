@@ -5,6 +5,7 @@ class Director {
     private var input = InputService()
     private var output = OutputService()
 
+    // The main game loop, also creates the game tutorial and story.
     fun startGame()
     {
         prepareGame()
@@ -16,6 +17,8 @@ class Director {
         output.gameOver()
     }
 
+    // Takes in the users name and begins the story
+    // minimal text-graphics started.
     private fun prepareGame()
     {
         println("WELCOME TO ESCAPE THE DUNGEON!")
@@ -29,10 +32,12 @@ class Director {
         output.storyStart(player.name)
     }
 
+    // In charge of getting all the user input
     private fun getInputs()
     {
         input.getInput()
     }
+    // In charge of the logic and displaying to the terminal
     private fun doOutputs()
     {
 
