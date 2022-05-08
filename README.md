@@ -11,15 +11,14 @@ The purpose of writing a Text Based RPG is to practice my abilites in a language
 
 # Development Environment
 
-I used the Intellij enviornment, which I have grown to love!
+I used the IntelliJ enviornment, which I have grown to love!
 
 I used Kotlin to create this software.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Kotlin Docs](https://kotlinlang.org/docs/home.html)
+* [IntelliJ](https://www.jetbrains.com/help/idea/getting-started.html)
 
 # Future Work
 * Add more to the story
